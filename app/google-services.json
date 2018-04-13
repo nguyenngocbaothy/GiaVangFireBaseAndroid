@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "123494520803",
+    "firebase_url": "https://demogiavangfirebase.firebaseio.com",
+    "project_id": "demogiavangfirebase",
+    "storage_bucket": "demogiavangfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123494520803:android:bb20a2f144363469",
+        "android_client_info": {
+          "package_name": "com.developer.nguyenngocbaothy.demogiavangfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123494520803-6ap5c98lqiki5f8ealk4n8m59a8ei2jg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuaawV9dXhYtFgGqmMg6H6m2TLFLBTd7c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
